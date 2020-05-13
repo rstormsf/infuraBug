@@ -11,4 +11,4 @@ reliable rpc lenght =  1399
 Proof: 
 [infura-events.json](infura-events.json)
 [reliable-events.json](reliable-events.json)
-![infurabug.jpeg]
+![infurabug.jpeg](infurabug.jpeg)
